@@ -1,0 +1,113 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0;
+
+}
+/* .clearfix::after{
+    display: block;
+    content:"" ;
+    clear: both;
+} */
+.container{
+    width:200px;
+    height: 400px;
+    background-color: rgb(210, 255, 182);
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 200px;
+    /* position: relative; */
+  
+    overflow: hidden;
+}
+.lig-green{
+    position: relative;
+    left: -60px;
+    top: -45px;
+    background-color: rgb(45, 255, 45);
+     width: 250px;
+     height:100px ;
+     border-radius: 80%;  
+    
+    
+       
+
+}
+.gr-circle{
+   position: relative;
+  
+   left: -70px;
+   top: -210px;
+   color: rgb(255, 255, 255);
+   
+    background-color: rgb(12, 154, 12);
+    width: 200px;
+    height:200px ;
+    border-radius: 50%; 
+ 
+   }
+
+
+.gr-circle p{
+  
+ position: relative;
+ top: 140px;
+ left: 20px;
+ 
+}
+
+form{
+   /* padding-left: 12px; */
+    /* border: 2px solid; */
+    position: relative;
+    top: -150px;
+    text-align:center;
+   
+    
+}
+input{
+    border-radius: 4PX;
+    padding-left: 5px;
+    height: 25PX;
+  
+    border: 2PX SOLID rgb(0, 92, 0);
+}
+.username-div{
+text-align: left;
+margin-left: 11px;
+
+
+
+}
+.hackers{
+    font-size:11px;
+    margin-top: 8px;
+    color: rgb(74, 74, 74);
+   
+   } 
+   .login-p{
+    font-size: 12px;
+    margin-top: 10px;
+    color: rgb(74, 74, 74);
+   }
+   .button-div input{
+    width: 42%;
+    border-radius: 7px;
+    margin-top: 12px;
+   }
+   .login-input{
+     width:87% ;
+     margin-top: 10px;
+     border-radius: 7px;
+     background-color: rgb(0, 92, 0);
+     color: white;
+
+
+   }
+
+    
+
+
+
+
